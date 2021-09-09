@@ -1,10 +1,10 @@
 package main
 
-func main(){
+func main() {
 	val := "go pogramming"
 	println(val)
 
 	//verbose option
-	var val2 string ="go variable"
+	var val2 string = "go variable"
 	println(val2)
 }
